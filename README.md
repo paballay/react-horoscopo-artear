@@ -23,5 +23,5 @@ npm start
 
 ## Construido con 🛠️
 
-* [React.jss](https://create-react-app.dev/docs/getting-started) - Framework web usado
+* [React.js](https://create-react-app.dev/docs/getting-started) - Framework web usado
 * [Bootstrap CSS](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Framework CSS
