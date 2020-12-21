@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Probando componente <GridList /> Renderizando componente 1`] = `
+<div
+  className="btn-group col-md-2"
+  role="group"
+>
+  <button
+    className="btn btn-outline-primary m-2"
+    onClick={[Function]}
+    type="button"
+  >
+    Grilla
+  </button>
+  <button
+    className="btn btn-outline-primary m-2"
+    onClick={[Function]}
+    type="button"
+  >
+    Lista
+  </button>
+</div>
+`;
+
+exports[`Probando componente <GridList /> Renderizando del componente 1`] = `
+<div
+  className="btn-group col-md-2"
+  role="group"
+>
+  <button
+    className="btn btn-outline-primary m-2"
+    onClick={[Function]}
+    type="button"
+  >
+    Grilla
+  </button>
+  <button
+    className="btn btn-outline-primary m-2"
+    onClick={[Function]}
+    type="button"
+  >
+    Lista
+  </button>
+</div>
+`;
