@@ -26,7 +26,3 @@ npm start
 * [React.js](https://create-react-app.dev/docs/getting-started) - Framework web usado
 * [Bootstrap CSS](https://getbootstrap.com/docs/5.0/getting-started/introduction/) - Framework CSS
 
-### Notas
-
-_Es mi primer proyecto con React.js y la verdad que estoy feliz con su funcionamiento.
-La parte del testing no esta muy desarrollada ya que aun no poseo buenos conocimientos para testear perfectamente los componentes con sus fuciones, hooks u otras funcionalidades avanzadas. En estos días seguiré con mi aprendizaje para mejorar los detalles_
