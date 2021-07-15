@@ -21,6 +21,10 @@ _Y ejecutamos el proyecto_
 npm start
 ```
 
+## Api
+
+https://github.com/paballay/api-artear-horoscopo
+
 ## Construido con 🛠️
 
 * [React.js](https://create-react-app.dev/docs/getting-started) - Framework web usado
